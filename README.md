@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/CozyMeds/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live)
+- Solution URL: Solution URL(https://github.com/CozyMeds/qr-code-component-main)
+- Live Site URL: Live Site URL(https://remarkable-bavarois-375355.netlify.app/)
 
 ## My process
 
@@ -52,5 +52,5 @@ Continued learning Using SR for accessibility and properly defining heights and 
 
 ## Author
 
-- Github - [Add your name here](https://github.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Erratic56)
+- Github - [Kyrie](https://github.com/)
+- Frontend Mentor - [@Erratic56](https://www.frontendmentor.io/profile/Erratic56)
